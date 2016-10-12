@@ -1,5 +1,5 @@
 
-Name of Quantlet: Dirichlet distribution plots!
+Name of Quantlet: Topic Modeling
 
 Published in: An Introduction of Topic Modeling. 
 
