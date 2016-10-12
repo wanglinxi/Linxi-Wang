@@ -18,9 +18,9 @@ Author: Linxi Wang
 ```
 
 ![Picture1](TM-1_1_m.png)
-![Picture2](TM-1_2_m.png)
-![Picture3](TM-1_3_m.png)
-![Picture4](TM-1_4_m.png)
+![Picture2](TM-2_1_m.png)
+![Picture3](TM-3_1_m.png)
+![Picture4](TM-4_1_m.png)
 
 ```r
 
