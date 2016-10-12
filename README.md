@@ -6,15 +6,17 @@
 
 ```yaml
 
+
 Name of Quantlet: Topic Modeling
 
-Published in: An Introduction of Topic Modeling. 
+Published in: Dynamic Topic Modeling for Cryptocurrency Community Forums. 
 
 Description: Plots of Dirichlet distribution.
 
 Keywords: Dirichlet, distribution, density plots.
 
-Author: Ernie TEO, Gin Swee
+Author: Ernie Teo
+
 ```
 
 ![Picture1](TM-1_1_m.png)
