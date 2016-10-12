@@ -1,7 +1,8 @@
 # Topic-Modeling
-[<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png" alt="Topic Modeling">](http://quantlet.de/index.php?p=info)
 
-## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **XFGbetatsacf** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
+[<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png" alt="Visit QuantNet">](http://quantlet.de/index.php?p=info)
+
+## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **Topic Modeling** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
 
 ```yaml
 
@@ -17,9 +18,9 @@ Author: Linxi Wang
 ```
 
 ![Picture1](TM-1_1_m.png)
-![Picture1](TM-1_2_m.png)
-![Picture1](TM-1_3_m.png)
-![Picture1](TM-1_4_m.png)
+![Picture2](TM-1_2_m.png)
+![Picture3](TM-1_3_m.png)
+![Picture4](TM-1_4_m.png)
 
 ```r
 
