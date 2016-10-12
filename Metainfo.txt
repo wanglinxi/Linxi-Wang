@@ -7,6 +7,6 @@ Description: Plots of Dirichlet distribution.
 
 Keywords: Dirichlet, distribution, density plots.
 
-Author: Linxi Wang
+Author: Ernie Teo, Gin Swee
 
 
